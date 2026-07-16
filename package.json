@@ -1,7 +1,7 @@
 {
   "name": "baileys-in-error-fix",
   "type": "module",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A WebSockets library for interacting with WhatsApp Web - Patched for 463 Missing tctoken error",
   "keywords": [
     "whatsapp",
